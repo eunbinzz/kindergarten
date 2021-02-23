@@ -43,7 +43,7 @@ body {font-family: 'Nanum Gothic', sans-serif;}
                       position: absolute; bottom: 100%; left: 50%;
                       transform: translate(-50%);}
 #nav .depth1 > li.on > .depth2 {display: block;}
-#nav .depth2 > li  a {padding: 10px; display: block; font-weight: bold;}
+#nav .depth2 > li a {padding: 10px; display: block; font-weight: bold;}
 #nav .depth2 > li:hover>a {color: #ffd23c;}
    
 

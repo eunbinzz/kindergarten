@@ -18,6 +18,7 @@
 @media screen and (max-width:768px) {
     #header .sns {float: none; display: none;}
     #header .membership {float: none; text-align: right;}
+                            /* float: right를 none으로 해줌. 그리고 정렬 추가 */
     #header .row {position: relative}
     #header .open, #header .close {display: none; position: absolute; top: 0; right: 20px;}
     #header .close.on {display: block}
